@@ -1,6 +1,3 @@
-import random
-import time
-
 import allure
 import pytest
 
